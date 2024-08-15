@@ -1,5 +1,6 @@
 # NLP Basics:
 here you will be learning;
+
     1. Data pre-processing
     
         # Data cleaning:
@@ -10,4 +11,5 @@ here you will be learning;
             5. stemming and lemmatization
             
         # vectorization/ Feature extraction:
+        
     2. model building
